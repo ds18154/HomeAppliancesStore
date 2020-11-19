@@ -89,8 +89,8 @@ public class AirCondition {
         this.epipedaThorivou=epipedaThorivou;
         this.sindesimotitaWiFi=sindesimotitaWiFi;
         counterAirCondition++;
-    }    public int getCounteOven(){
-        return counterAirCondition;}
+    }
+
 
     public void printAirCondition() {   /**Sinartisi gia tin ektiposi ton stoixeion tis sikeuis*/
         System.out.println("Stoixeia Siskeuis: ");
